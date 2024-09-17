@@ -1,0 +1,28 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+  }
+  
+  form {
+    margin-bottom: 25px;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  textarea {
+    width: 100%;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
+  #resume-output {
+    border: 1px solid #5355e2;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
